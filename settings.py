@@ -7,8 +7,8 @@ from PyQt4 import QtGui
 import codecs,sys,os
 import time
 
-#username = "your baidu acount"    #配置你的百度账号
-#password = "your baidu password"  #配置你的百度密码
+username = "your baidu acount"    #配置你的百度账号
+password = "your baidu password"  #配置你的百度密码
 
 
 musiclistUrl = "http://music.baidu.com/top/new"  #   http://music.baidu.com/top/new
